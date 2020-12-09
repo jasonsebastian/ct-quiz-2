@@ -89,9 +89,9 @@ platform win32 -- Python 3.7.9, pytest-6.1.2, py-1.9.0, pluggy-0.13.1
 rootdir: C:\Users\jason\Google Drive\Personal\Comp Thinking\2020-12-12 Quiz 2
 collected 11 items
 
-tournament_test.py ...........                                                                                                                                   [100%]
+tournament_test.py ...........                                               [100%]
 
-=============================== 11 passed in 0.10s ===============================
+=============================== 11 passed in 0.10s ================================
 ```
 
 ## Verifying
